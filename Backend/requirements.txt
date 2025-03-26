@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+requests
+faiss-cpu
+numpy
+pydantic
+python-multipart
