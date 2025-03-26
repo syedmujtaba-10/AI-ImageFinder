@@ -1,4 +1,4 @@
-# 🧠 ImageFinder — AI-Powered Image Search with FastAPI + React
+# 🧠 ImageFinder: AI-Powered Image Search with FastAPI + React
 
 ImageFinder is a full-stack **AI-powered semantic image search engine** that lets users describe what they want to see and instantly retrieves relevant images from a local dataset. It uses **LLaVA for caption generation** and **Nomic embeddings for search**, all hosted locally via **LM Studio**.
 
