@@ -19,7 +19,7 @@ model, _, preprocess = open_clip.create_model_and_transforms(
 model = model.to(device)
 
 # llava API details
-LLAVA_API = "http://192.168.68.50:1234/v1/chat/completions"
+LLAVA_API = ""
 LLAVA_MODEL = "llava-v1.5-7b"
 
 def generate_caption(image: Image.Image) -> str:
