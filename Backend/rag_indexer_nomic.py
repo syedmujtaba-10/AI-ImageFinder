@@ -4,7 +4,7 @@ import faiss
 import requests
 
 # Constants
-LLM_EMBEDDING_API = "http://192.168.68.50:1234/v1/embeddings"
+LLM_EMBEDDING_API = ""
 LLM_MODEL = "text-embedding-nomic-embed-text-v1.5"
 
 # Load image captions
