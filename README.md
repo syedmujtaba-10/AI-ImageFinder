@@ -34,7 +34,7 @@ It converts both image captions and search queries into vector space for **fast 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/syedmujtaba-10/AI-ImageFinder
+git clone https://github.com/syedmujtaba-10/AI-ImageFinder.git
 cd Backend
 ```
 
